@@ -15,3 +15,4 @@ With the following features:
 * To build your assets into the `dist` directory run `webpack`
 * **NEVER TOUCH THE CONTENTS OF THE DIST FOLDER**
 * Build whatever you like in the app folder
+# backbone-tshirt-views
